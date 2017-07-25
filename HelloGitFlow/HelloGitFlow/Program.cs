@@ -13,6 +13,8 @@ namespace HelloGitFlow
             Console.WriteLine("Hello GitFlow!!!");
             Console.WriteLine("Develop you can't break my changes. I can fix them.");
             Console.WriteLine("Good bye develop.");
+
+            Feature14 f14 = new Feature14();
         }
     }
 }
