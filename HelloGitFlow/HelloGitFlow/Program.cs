@@ -11,8 +11,6 @@ namespace HelloGitFlow
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitFlow!!!");
-            Console.WriteLine("Good bye feature branch!!!");
-            Console.WriteLine("Good bye feature branch!!!");
         }
     }
 }
