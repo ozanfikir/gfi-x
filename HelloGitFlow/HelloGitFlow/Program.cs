@@ -10,7 +10,8 @@ namespace HelloGitFlow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GitFlow!!!");
+            Console.WriteLine("Hello GitFlow, Good bye feature 9!!!");
+            Console.WriteLine("Good bye feature 9 !!!");
         }
     }
 }
