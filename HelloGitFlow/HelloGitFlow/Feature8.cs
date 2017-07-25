@@ -8,18 +8,26 @@ namespace HelloGitFlow
 {
     public class Feature8
     {
-        public string Name { get; set; }
+        public string Name
+        {
+            get
+            {
+                return string.Format("{0}-{1}", InternalName, Index);
+            }
+        }
 
         public int Index { get; set; }
 
+        public string InternalName { get; set; }
+
         public Feature8(string name)
         {
-            Name = name;
+            InternalName = name;
         }
 
         public Feature8(string name, int index)
         {
-            Name = name;
+            InternalName = name;
             Index = index;
         }
     }
