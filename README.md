@@ -5,6 +5,6 @@ This is a sample repository to demonstrate GitFlow.
 <img src="http://teamcity.aurea.local/app/rest/builds/buildType:(id:GfiProjects_GfiEventsManager_BuildProduct)/statusIcon"/>
 </a>
 
-![alt text][logo]
+![logo]
 
 [logo]: http://teamcity.aurea.local/app/rest/builds/buildType:(id:GfiProjects_GfiEventsManager_BuildProduct)/statusIcon.png
