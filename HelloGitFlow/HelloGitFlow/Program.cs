@@ -15,6 +15,8 @@ namespace HelloGitFlow
             Console.WriteLine("Good bye develop.");
 
             Feature14 f14 = new Feature14();
+            Feature10 f10 = new Feature10();
+            
         }
     }
 }
